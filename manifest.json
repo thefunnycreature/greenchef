@@ -1,0 +1,9 @@
+{
+    "name": "GreenChefMod",
+    "version_number": "1.0.0.",
+    "website_url": "https://github.com/thefunnycreature/greenchef/",
+    "description": "Green Chef Mod is a mod that adds a skin that follows the design philosophy of the Prime Meridian skins.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2117"
+    ]
+}
